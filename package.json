@@ -14,6 +14,7 @@
     "@rollup/plugin-typescript": "^8.3.0",
     "@tsconfig/svelte": "^3.0.0",
     "autoprefixer": "^10.4.0",
+    "less-loader": "^11.0.0",
     "postcss": "^8.4.4",
     "postcss-load-config": "^3.1.0",
     "rollup": "^2.67.1",
