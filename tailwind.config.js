@@ -11,7 +11,7 @@ module.exports = {
     extend: {
       colors: {
         svelte: '#ff3e00',
-      },
+      }, 
     },
   },
   plugins: [],
